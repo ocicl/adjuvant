@@ -1,0 +1,9 @@
+* adjuvant
+
+Utility functions used in other packages.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/jimka2001/adjuvant.git` |
+| commit  | 9fcb29e                                        |
+| systems | adjuvant                                       |
+|---------+------------------------------------------------|
